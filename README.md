@@ -155,11 +155,6 @@ FitTrack can integrate with a variety of applications to enhance your fitness tr
 2. **Apple Health Compatibility**: To learn more about how FitTrack works with Apple Health, including which health metrics it can synchronize with, see your Health in Health app overview(https://support.apple.com/en-us/HT203037).
 
 
-You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
-
-- Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
-- HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
-
 # FitTrack Documentation
 
 ## 📅 Scheduling Workouts
